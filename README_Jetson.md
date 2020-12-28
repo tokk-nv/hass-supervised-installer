@@ -2,9 +2,9 @@
 
 ## Prerequisite 
 
-- Install Intel 8265NGW Wi-Fi/BT card on the M.2 slot, as HASS requires Bluetooth connection to some devices.
-- Install JetPack 4.4.1 image on 64GB microSD card
--- Auto-login
+* Install Intel 8265NGW Wi-Fi/BT card on the M.2 slot, as HASS requires Bluetooth connection to some devices.
+* Install JetPack 4.4.1 image on 64GB microSD card
+    * Auto-login
 
 
 ## Install Home Assistant Supervised
@@ -12,13 +12,13 @@
 This document shows the installation of Home Assistant Supervised on Jetson Nano.
 
 There are other alternative installation methods;
-- Recommended
--- Home Assistant OS
---  Home Assistant Container
-- Alternative installs
--- Home Assisstant Core
--- **Home Assistant Supervised** <--
--- vent (as your user)
+* Recommended
+    * Home Assistant OS
+    * Home Assistant Container
+* Alternative installs
+    * Home Assisstant Core
+    * Home Assistant Supervised** <--
+    * vent (as your user)
 
 https://www.home-assistant.io/docs/installation/
 
