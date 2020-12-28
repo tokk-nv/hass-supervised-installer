@@ -17,7 +17,7 @@ There are other alternative installation methods;
     * Home Assistant Container
 * Alternative installs
     * Home Assisstant Core
-    * Home Assistant Supervised** <--
+    * **Home Assistant Supervised** <--
     * vent (as your user)
 
 https://www.home-assistant.io/docs/installation/
